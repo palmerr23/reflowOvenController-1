@@ -1,3 +1,7 @@
+See my git for updates https://github.com/palmerr23/reflowOvenController
+
+Karl's description:
+
 Reflow Oven Controller
 ====================
 
